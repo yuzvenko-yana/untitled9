@@ -6,20 +6,21 @@ public class Main {
 
     public static void main(String[] args) {
         List<Person> list = new ArrayList();
-                list.add("Петр",20)
-                new Person("Иван",1),
-                new Person("Петр",20),
-                new Person("Женя",1),
-                new Person("Артем",1),
-                new Person("Петр",20),
-                new Person("Сергей",1),
-                new Person("Петр",20),
-                new Person("Илья",1),
-                new Person("Коля",1)
-        );
+//                list.add("Петр",20)
+//                new Person("Иван",1),
+//                new Person("Петр",20),
+//                new Person("Женя",1),
+//                new Person("Артем",1),
+//                new Person("Петр",20),
+//                new Person("Сергей",1),
+//                new Person("Петр",20),
+//                new Person("Илья",1),
+//                new Person("Коля",1)
+//        );
 
 
         ArrayList<Integer> list = new ArrayList<>();
+
 
         list.add(1);
         list.add(2);
